@@ -12,5 +12,5 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-display_name = "fda-my-studies"
-parent       = "organizations/707577601068"
+display_name = "validcare-mystudies"
+parent       = "organizations/423192334367"
