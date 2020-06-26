@@ -22,7 +22,7 @@ dependency "project" {
 }
 
 dependency "network" {
-  config_path = "../../project.heroes-hat-dev-networks/networks/"
+  config_path = "../../project.validcare-research-networks/networks/"
 
   mock_outputs = {
     private_network = {
