@@ -12,13 +12,13 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-project_id                 = "heroes-hat-dev-apps"
-network_project_id         = "heroes-hat-dev-networks"
+project_id                 = "validcare-research-apps"
+network_project_id         = "validcare-research-networks"
 gke_region                 = "us-east1"
-cluster_name               = "heroes-hat-cluster"
+cluster_name               = "validcare-research-cluster"
 master_authorized_networks = [{ cidr_block = "104.132.0.0/14", display_name = "Google Offices/Campuses/CorpDC" }]
 repo_owner                 = "GoogleCloudPlatform"
-repo_name                  = "fda-mystudies"
+repo_name                  = "validcare-mystudies"
 cloudbuild_trigger_branch  = "early-access"
-dns_name                   = "heroes-hat"
-dns_domain                 = "heroes-hat.rocketturtle.net."
+dns_name                   = "validcare-research"
+dns_domain                 = "validcare-research.validcare.com"
