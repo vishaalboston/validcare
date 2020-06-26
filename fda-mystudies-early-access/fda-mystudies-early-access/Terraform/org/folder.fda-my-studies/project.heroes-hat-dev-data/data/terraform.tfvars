@@ -12,8 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-project_id         = "heroes-hat-dev-data"
-secrets_project_id = "heroes-hat-dev-devops"
+project_id         = "validcare-research-data"
+secrets_project_id = "validcare-research-devops"
 storage_location   = "us-east1"
 cloudsql_region    = "us-east1"
 cloudsql_zone      = "b"
